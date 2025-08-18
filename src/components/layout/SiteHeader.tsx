@@ -18,7 +18,7 @@ const SiteHeader = () => {
           <span className="rounded-md p-2 surface-card shadow-[var(--shadow-glow)]">
             <Shield className="text-[hsl(var(--brand))]" />
           </span>
-          <span className="font-display text-lg font-semibold tracking-tight">AI & CyberSecure</span>
+          <span className="font-display text-lg font-semibold tracking-tight">asg cybersecure</span>
         </Link>
         <nav className="hidden md:flex items-center gap-6">
           {navItems.map((item) => (

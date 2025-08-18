@@ -5,7 +5,7 @@ const SiteFooter = () => {
     <footer className="mt-16 border-t border-border/60">
       <div className="container py-10 grid gap-8 md:grid-cols-3">
         <div>
-          <h3 className="font-display text-xl">AI & CyberSecure Solutions</h3>
+          <h3 className="font-display text-xl">asg cybersecure</h3>
           <p className="text-sm text-muted-foreground mt-2">Cutting-edge AI and robust cybersecurity to secure your future.</p>
         </div>
         <div>
@@ -26,7 +26,7 @@ const SiteFooter = () => {
           </div>
         </div>
       </div>
-      <div className="border-t border-border/60 py-4 text-center text-xs text-muted-foreground">© {new Date().getFullYear()} AI & CyberSecure Solutions. All rights reserved.</div>
+      <div className="border-t border-border/60 py-4 text-center text-xs text-muted-foreground">© {new Date().getFullYear()} asg cybersecure. All rights reserved.</div>
     </footer>
   );
 };

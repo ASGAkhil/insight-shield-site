@@ -11,7 +11,7 @@ const Blog = () => {
   return (
     <>
       <Seo
-        title="Blog | AI & CyberSecure Solutions"
+        title="Blog | asg cybersecure"
         description="Insights on AI, cybersecurity, zero-trust, and cloud security."
         canonical={typeof window !== 'undefined' ? window.location.href : undefined}
       />

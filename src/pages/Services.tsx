@@ -20,7 +20,7 @@ const Services = () => {
   return (
     <>
       <Seo
-        title="Services | AI & CyberSecure Solutions"
+        title="Services | asg cybersecure"
         description="AI technologies and cybersecurity services: detection & response, IAM, cloud security, and more."
         canonical={typeof window !== 'undefined' ? window.location.href : undefined}
       />

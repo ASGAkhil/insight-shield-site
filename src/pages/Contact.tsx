@@ -21,7 +21,7 @@ const Contact = () => {
   return (
     <>
       <Seo
-        title="Contact | AI & CyberSecure Solutions"
+        title="Contact | asg cybersecure"
         description="Contact our AI and cybersecurity experts for a tailored consultation."
         canonical={typeof window !== 'undefined' ? window.location.href : undefined}
       />

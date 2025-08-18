@@ -16,7 +16,7 @@ const Layout = () => {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Organization",
-    name: "AI & CyberSecure Solutions",
+    name: "asg cybersecure",
     url: typeof window !== 'undefined' ? window.location.origin : 'https://example.com',
     sameAs: [],
     logo: 'https://lovable.dev/opengraph-image-p98pqg.png'

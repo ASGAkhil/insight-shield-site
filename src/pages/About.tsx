@@ -4,7 +4,7 @@ const About = () => {
   return (
     <>
       <Seo
-        title="About | AI & CyberSecure Solutions"
+        title="About | asg cybersecure"
         description="Learn about our mission to unify AI innovation with world-class cybersecurity."
         canonical={typeof window !== 'undefined' ? window.location.href : undefined}
       />
